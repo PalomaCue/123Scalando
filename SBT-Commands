@@ -1,0 +1,4 @@
+
+# To bring down some dependencies from internet.
+
+sbt clean test:compile
